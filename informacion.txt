@@ -1,0 +1,3 @@
+Edad: 23
+Experiencias: llevo 5 años en la programacion web (Ingreniero en sistemas :v)
+Curso: Me contrataron y no tenia nada mas que hacer 
